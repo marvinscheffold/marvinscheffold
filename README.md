@@ -1,3 +1,6 @@
-### Hi there 👋
+# Hey, there 👋
+### make yourself at home 
 
-#### Test!!!
+### Some of my projects:
+(Der kleine Gedanke)[http://www.derkleinegedanke.de/]
+(Resume)[https://www.marvinscheffold.com/resume/]
