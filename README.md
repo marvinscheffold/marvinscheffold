@@ -1,5 +1,3 @@
-# marvin scheffold
-
 ## About
 
 Creative problem solver with a thirst for knowledge, using tech and art to make life more beautiful.
@@ -13,4 +11,4 @@ Creative problem solver with a thirst for knowledge, using tech and art to make 
 
 ## Code Projects 
 
-- [Click Me](https://github.com/marvinscheffold?tab=repositories)
+- [check my github repos](https://github.com/marvinscheffold?tab=repositories)
