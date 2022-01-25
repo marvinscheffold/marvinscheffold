@@ -7,7 +7,6 @@ Creative problem solver with a thirst for knowledge, using tech and art to make 
 ## Non Code Projects
 - [marvinscheffold.com](https://www.marvinscheffold.com)
 - [Der kleine Gedanke](http://www.derkleinegedanke.de/)
-- [Resume](https://www.marvinscheffold.com/resume/)
 
 ## Code Projects 
 
