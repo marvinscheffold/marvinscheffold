@@ -10,4 +10,4 @@ Creative problem solver with a thirst for knowledge, using tech and art to make 
 
 ## Code Projects 
 
-- [check my github repos](https://github.com/marvinscheffold?tab=repositories)
+- [Check my GitHub Repos](https://github.com/marvinscheffold?tab=repositories)
